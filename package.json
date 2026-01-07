@@ -1,0 +1,20 @@
+{
+  "name": "solo-os",
+  "version": "1.0.0",
+  "description": "Markdown-based personal operating system for solopreneurs",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev solopreneur-os",
+    "build": "vitepress build solopreneur-os",
+    "preview": "vitepress preview solopreneur-os"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmbitiousRealism2025/Solo-OS.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vite-plugin-pwa": "^1.2.0",
+    "vitepress": "^1.6.4"
+  }
+}

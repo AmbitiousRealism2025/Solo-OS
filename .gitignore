@@ -1,0 +1,4 @@
+node_modules/
+solopreneur-os/.vitepress/dist/
+solopreneur-os/.vitepress/cache/
+.DS_Store
