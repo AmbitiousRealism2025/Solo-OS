@@ -4,7 +4,7 @@
 
 ---
 
-## Year: {{year}}
+## Year: ______
 
 ---
 
@@ -142,5 +142,27 @@ Still accurate? [ ] Yes [ ] No, updating to: ___
 
 ---
 
-*Frameworks: [Annual Review](../../frameworks/annual_review.md), [Vivid Vision](../../frameworks/vivid_vision.md), [Ideal Life Costing](../../frameworks/ideal_life_costing.md), [Life Map](../../frameworks/life_map.md)*
-*Interview scripts: [Past Year Reflection](../../interviews/past_year_reflection.md), [Identity & Values](../../interviews/identity_and_values.md)*
+---
+
+## Resources
+
+### Frameworks
+- [Annual Review Framework](../../frameworks/annual_review.md) — Wins, losses, lessons, gratitudes
+- [Vivid Vision](../../frameworks/vivid_vision.md) — 3-year present-tense narrative
+- [Ideal Life Costing](../../frameworks/ideal_life_costing.md) — TMI calculation
+- [Life Map](../../frameworks/life_map.md) — 6-domain scoring
+- [Leverage Audit](../../frameworks/leverage_audit.md) — Kill/Automate/Protect
+- [Energy Architecture](../../frameworks/energy_architecture.md) — Ideal week design
+
+### Interview Scripts
+- [Past Year Reflection](../../interviews/past_year_reflection.md) — Year narrative extraction
+- [Identity & Values](../../interviews/identity_and_values.md) — Core values discovery
+- [Future Self Interview](../../interviews/future_self_interview.md) — 3-year vision details
+
+### Goals
+- [1-Year Goals](../../goals/1_year.md) — Annual targets
+- [3-Year Goals](../../goals/3_year.md) — Medium-term strategy
+- [10-Year Vision](../../goals/10_year.md) — Long-term direction
+
+### Memory
+- [Memory System](../../memory.md) — Patterns and decisions log

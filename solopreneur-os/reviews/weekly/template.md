@@ -4,7 +4,7 @@
 
 ---
 
-## Week of: {{date}}
+## Week of: _______________
 
 ---
 
@@ -100,6 +100,13 @@ What could prevent those objectives? What's the plan?
 
 ---
 
-*Metrics defined in: [Metrics Dictionary](../../tracking/metrics_dictionary.md)*
-*Patterns tracked in: [Memory](../../memory.md)*
+---
+
+## Resources
+
+- [Metrics Dictionary](../../tracking/metrics_dictionary.md) — Definitions for energy, modes, revenue
+- [Memory System](../../memory.md) — Pattern tracking
+- [Client Projects](../../tracking/client_projects.md) — Active project tracker
+- [Content Log](../../tracking/content_log.md) — Published content tracker
+
 *Feeds into: [Monthly Review](../monthly/template.md)*

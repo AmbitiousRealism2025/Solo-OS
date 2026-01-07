@@ -4,7 +4,7 @@
 
 ---
 
-## Month: {{month}} {{year}}
+## Month: _______________
 
 ---
 
@@ -153,7 +153,16 @@ What's the ONE thing that would make next month a success?
 
 ---
 
-*Metrics defined in: [Metrics Dictionary](../../tracking/metrics_dictionary.md)*
-*Patterns tracked in: [Memory](../../memory.md)*
-*Frameworks referenced: [Leverage Audit](../../frameworks/leverage_audit.md), [Energy Architecture](../../frameworks/energy_architecture.md)*
+---
+
+## Resources
+
+- [Metrics Dictionary](../../tracking/metrics_dictionary.md) — Definitions for energy, modes, revenue
+- [Memory System](../../memory.md) — Pattern tracking
+- [Leverage Audit](../../frameworks/leverage_audit.md) — Kill/Automate/Protect framework
+- [Energy Architecture](../../frameworks/energy_architecture.md) — Ideal week design
+- [Learning Experiments](../../tracking/learning_experiments.md) — R&D tracker
+- [Content Log](../../tracking/content_log.md) — Published content tracker
+- [Honest Capacity Check](../../interviews/honest_capacity_check.md) — Quarterly reality check
+
 *Feeds into: [Annual Review](../annual/template.md)*

@@ -6,7 +6,7 @@
 
 ## Quick Stats
 
-**Date**: {{date}}
+**Date**: _______________
 
 **Energy**: ___ /10
 <!-- 1-3: Depleted | 4-6: Functional | 7-10: Peak -->
