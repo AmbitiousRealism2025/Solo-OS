@@ -1,6 +1,6 @@
 # Solo-OS: Solopreneur Personal Operating System
 
-> **Status**: Phase 1 Complete — Markdown foundation + VitePress viewer ready
+> **Status**: Feature-complete (Phases 1-3) — Ready for use
 
 ---
 
@@ -28,44 +28,53 @@ npm run preview  # Preview at localhost:4173
 
 ---
 
-## What's Built (Phase 1)
+## What's Included
 
-### Markdown Vault (`solopreneur-os/`)
-
+### Foundation
 | File | Purpose |
 |------|---------|
-| `index.md` | VitePress homepage |
 | `ambitious_realism.md` | Core philosophy |
 | `north_star.md` | Singular direction |
 | `principles.md` | Operating constraints |
-| `reviews/daily/template.md` | 5-min check-in |
-| `reviews/weekly/template.md` | 30-60 min review |
-| `reviews/monthly/template.md` | 60-120 min review |
-| `reviews/annual/template.md` | Half-day reset (Phase 2 content) |
-| `tracking/metrics_dictionary.md` | Shared definitions |
-| `tracking/tag_index.md` | Canonical tags |
+| `memory.md` | Pattern detection system |
 
-### VitePress Viewer
+### Reviews (4 cadences)
+| Cadence | Time | Purpose |
+|---------|------|---------|
+| Daily | ≤5 min | Energy + needle mover + tomorrow's MIT |
+| Weekly | 30-60 min | What shipped + ratio check + adjustments |
+| Monthly | 60-120 min | Revenue + trends + course correction |
+| Annual | Half day | Full reset + vision refresh |
 
-- Sidebar navigation for all sections
-- Local search across all content
-- PWA support for offline access
-- Dark theme by default
+### Frameworks (6 worksheets)
+| Framework | Source | Purpose |
+|-----------|--------|---------|
+| Annual Review | Dr. Anthony Gustin | Wins/losses/lessons/gratitudes |
+| Vivid Vision | Cameron Herold | 3-year present-tense narrative |
+| Ideal Life Costing | Tim Ferriss | TMI calculation |
+| Life Map | Alex Lieberman | 6-domain assessment |
+| Leverage Audit | Original | Kill/Automate/Protect |
+| Energy Architecture | Original | Schedule around energy |
 
----
+### Interviews (4 scripts)
+| Interview | Frequency | Output |
+|-----------|-----------|--------|
+| Past Year Reflection | Annual | Year narrative + lessons |
+| Identity & Values | Annual | Core values (3-5) |
+| Future Self | Annual | 3-year vision details |
+| Honest Capacity Check | Quarterly | Stop/start/continue |
 
-## What's Next (Phase 2)
+### Goals (3 horizons)
+- **1 Year**: Annual targets with quarterly milestones
+- **3 Year**: Medium-term strategy
+- **10 Year**: Long-term direction
 
-**Frameworks** — 6 strategic worksheets:
-- Annual Review (Gustin), Vivid Vision (Herold), Ideal Life Costing (Ferriss)
-- Life Map (Lieberman), Leverage Audit, Energy Architecture
-
-**Interviews** — 4 self-interview scripts:
-- Past Year Reflection, Identity & Values, Future Self, Honest Capacity Check
-
-**Goals** — 1-year, 3-year, 10-year targets
-
-**Tracking** — Client projects, content log, learning experiments
+### Tracking (5 files)
+- Metrics Dictionary (shared definitions)
+- Tag Index (canonical tags)
+- Client Projects (active work + revenue)
+- Content Log (published content)
+- Learning Experiments (R&D with hypothesis)
 
 ---
 
@@ -76,15 +85,15 @@ Solo-OS/
 ├── solopreneur-os/              ← MARKDOWN VAULT
 │   ├── .vitepress/config.ts     ← VitePress + PWA config
 │   ├── index.md                 ← Homepage
+│   ├── memory.md                ← Pattern detection
+│   ├── frameworks/              ← 6 strategic worksheets
+│   ├── interviews/              ← 4 self-interview scripts
 │   ├── reviews/                 ← Daily, weekly, monthly, annual
-│   ├── tracking/                ← Metrics dictionary, tags
-│   ├── frameworks/              ← Phase 2
-│   ├── interviews/              ← Phase 2
-│   └── goals/                   ← Phase 2
+│   ├── goals/                   ← 1, 3, 10 year
+│   └── tracking/                ← Metrics, projects, content, experiments
 ├── package.json                 ← Build scripts
 ├── friction-log.md              ← Phase 4 trigger
-├── context/                     ← Planning docs
-└── PWA-research/                ← Research archive
+└── context/                     ← Planning docs (read-only)
 ```
 
 ---
@@ -123,6 +132,18 @@ If a review takes longer, cut content. Don't extend time.
 | Viewer | VitePress 1.6 |
 | PWA | vite-plugin-pwa |
 | Hosting | Cloudflare Pages |
+
+---
+
+## Phase Status
+
+| Phase | Status | Description |
+|-------|--------|-------------|
+| 1A | ✅ | Markdown foundation |
+| 1B | ✅ | VitePress viewer + PWA |
+| 2 | ✅ | Frameworks, interviews, goals, tracking |
+| 3 | ✅ | Memory system, cross-references |
+| 4 | Conditional | Next.js (only if friction log triggers) |
 
 ---
 
