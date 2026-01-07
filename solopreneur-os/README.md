@@ -59,14 +59,31 @@ That's it. You're using the system.
 ### Tracking
 - [Metrics Dictionary](tracking/metrics_dictionary.md) — Shared definitions
 - [Tag Index](tracking/tag_index.md) — Canonical tags
+- [Client Projects](tracking/client_projects.md) — Active projects & revenue
+- [Content Log](tracking/content_log.md) — Published content tracker
+- [Learning Experiments](tracking/learning_experiments.md) — R&D with hypothesis
 
-### Frameworks (Phase 2)
+### Frameworks
 - [Annual Review](frameworks/annual_review.md) — Gustin-style wins/losses/lessons
 - [Vivid Vision](frameworks/vivid_vision.md) — 3-year present-tense narrative
 - [Ideal Life Costing](frameworks/ideal_life_costing.md) — Ferriss TMI calculation
 - [Life Map](frameworks/life_map.md) — 6-domain assessment
 - [Leverage Audit](frameworks/leverage_audit.md) — AI/automation reality check
 - [Energy Architecture](frameworks/energy_architecture.md) — Schedule around energy
+
+### Interview Scripts
+- [Past Year Reflection](interviews/past_year_reflection.md) — Annual narrative extraction
+- [Identity & Values](interviews/identity_and_values.md) — Core values discovery
+- [Future Self Interview](interviews/future_self_interview.md) — 3-year vision details
+- [Honest Capacity Check](interviews/honest_capacity_check.md) — Quarterly reality check
+
+### Goals
+- [1-Year Goals](goals/1_year.md) — Annual targets with quarterly milestones
+- [3-Year Goals](goals/3_year.md) — Medium-term strategy
+- [10-Year Vision](goals/10_year.md) — Long-term direction
+
+### Memory
+- [Memory System](memory.md) — Signal → Pattern → Experiment → Decision
 
 ### Uploads
 - [Past Reviews](uploads/past_reviews/) — Historical documents
@@ -100,18 +117,34 @@ solopreneur-os/
 ├── ambitious_realism.md         ← Philosophy
 ├── north_star.md                ← Direction
 ├── principles.md                ← Constraints
-├── memory.md                    ← Pattern tracking (Phase 3)
-├── frameworks/                  ← Strategic frameworks (Phase 2)
-├── interviews/                  ← Self-interview scripts (Phase 2)
+├── memory.md                    ← Pattern tracking
+├── frameworks/
+│   ├── annual_review.md         ← Gustin methodology
+│   ├── vivid_vision.md          ← Herold 3-year narrative
+│   ├── ideal_life_costing.md    ← Ferriss TMI
+│   ├── life_map.md              ← Lieberman 6 domains
+│   ├── leverage_audit.md        ← Kill/Automate/Protect
+│   └── energy_architecture.md   ← Schedule around energy
+├── interviews/
+│   ├── past_year_reflection.md
+│   ├── identity_and_values.md
+│   ├── future_self_interview.md
+│   └── honest_capacity_check.md
 ├── reviews/
-│   ├── daily/template.md
-│   ├── weekly/template.md
-│   ├── monthly/template.md
-│   └── annual/template.md
-├── goals/                       ← Time-based targets (Phase 2)
+│   ├── daily/template.md        ← 5 min
+│   ├── weekly/template.md       ← 30-60 min
+│   ├── monthly/template.md      ← 60-120 min
+│   └── annual/template.md       ← Half day
+├── goals/
+│   ├── 1_year.md
+│   ├── 3_year.md
+│   └── 10_year.md
 ├── tracking/
-│   ├── metrics_dictionary.md
-│   └── tag_index.md
+│   ├── metrics_dictionary.md    ← Shared definitions
+│   ├── tag_index.md             ← Canonical tags
+│   ├── client_projects.md       ← Active projects
+│   ├── content_log.md           ← Published content
+│   └── learning_experiments.md  ← R&D tracker
 └── uploads/
     ├── past_reviews/
     └── notes/

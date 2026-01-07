@@ -72,7 +72,8 @@ export default defineConfig({
           { text: 'Home', link: '/' },
           { text: 'Ambitious Realism', link: '/ambitious_realism' },
           { text: 'North Star', link: '/north_star' },
-          { text: 'Principles', link: '/principles' }
+          { text: 'Principles', link: '/principles' },
+          { text: 'Memory System', link: '/memory' }
         ]
       },
       {
@@ -112,7 +113,10 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Metrics Dictionary', link: '/tracking/metrics_dictionary' },
-          { text: 'Tag Index', link: '/tracking/tag_index' }
+          { text: 'Tag Index', link: '/tracking/tag_index' },
+          { text: 'Client Projects', link: '/tracking/client_projects' },
+          { text: 'Content Log', link: '/tracking/content_log' },
+          { text: 'Learning Experiments', link: '/tracking/learning_experiments' }
         ]
       },
       {
