@@ -23,14 +23,14 @@ export default defineConfig({
           start_url: '/',
           icons: [
             {
-              src: 'pwa-192x192.png',
+              src: 'pwa-192x192.svg',
               sizes: '192x192',
-              type: 'image/png'
+              type: 'image/svg+xml'
             },
             {
-              src: 'pwa-512x512.png',
+              src: 'pwa-512x512.svg',
               sizes: '512x512',
-              type: 'image/png'
+              type: 'image/svg+xml'
             }
           ]
         },
@@ -138,6 +138,7 @@ export default defineConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#1a1a1a' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }]
   ]
 })
